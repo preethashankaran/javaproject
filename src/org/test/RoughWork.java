@@ -6,6 +6,8 @@ public class RoughWork {
 		System.out.println("java");
 		System.out.println("Selenium");
 		System.out.println("sql");
+		System.out.println("hadoop");
+
 	}
 
 }
